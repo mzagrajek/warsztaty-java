@@ -61,6 +61,7 @@ public class Tablice {
     }
         private static int max(int[] array) {
 
+
         int currentMax = array[0];
 
         for (int i = 1; i < array.length; i++) {
