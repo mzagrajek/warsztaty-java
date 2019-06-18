@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c8c94a5-1e23-4f4a-aae4-248c0f9bee4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/CiagFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/SmsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Warsztaty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/com/agora/workshop/Tablice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Tablice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,68 +19,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Article.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/NotificationService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/EmailService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main3.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/SmsService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,6 +86,12 @@
         <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/SmsService.java" />
         <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Dog.java" />
         <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main3.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main5.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Random.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main7.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main8.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java" />
       </list>
     </option>
   </component>
@@ -167,6 +122,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,16 +155,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/critical-path-core" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -226,9 +182,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main3">
-    <configuration name="Article" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Article" />
+  <component name="RunManager" selected="Application.SetClass">
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main5" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
@@ -240,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CiagFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.CiagFibonacci" />
+    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main7" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
@@ -253,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Dog" />
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main8" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
@@ -266,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main3" />
+    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main9" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
@@ -279,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestKibana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.TestKibana" />
+    <configuration name="SetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.SetClass" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
@@ -294,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Article" />
-        <item itemvalue="Application.CiagFibonacci" />
-        <item itemvalue="Application.TestKibana" />
+        <item itemvalue="Application.SetClass" />
+        <item itemvalue="Application.Main9" />
+        <item itemvalue="Application.Main8" />
+        <item itemvalue="Application.Main7" />
+        <item itemvalue="Application.Main5" />
       </list>
     </recent_temporary>
   </component>
@@ -316,20 +272,20 @@
     <frame x="-1" y="0" width="1922" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2886873" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30469584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20283534" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32824427" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20174482" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="7" weight="0.3291536" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27948004" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32715377" />
@@ -492,6 +448,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/EmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/SmsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Article.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -506,49 +504,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/NotificationService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="135">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
           <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/EmailService.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/SmsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        <state relative-caret-position="210">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -604,6 +597,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
