@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c8c94a5-1e23-4f4a-aae4-248c0f9bee4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/dao/ArticleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/dto/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/exception/ArticleNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/main/MainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Tablica2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main8$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main8$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Main9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/SetClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/SetClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Tablice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/warsztaty_java/pl/com/agora/workshop/Tablice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/agora/workshop/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/com/agora/workshop/Tablice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/com/agora/workshop/Tablice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warsztaty_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/warsztaty_java.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,22 +39,62 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/dao/ArticleDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <state relative-caret-position="60">
+              <caret line="100" column="33" selection-start-line="100" selection-start-column="33" selection-end-line="100" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="330">
+              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/main/MainException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/dto/Article.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+              <folding>
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/agora/exception/ArticleNotFoundException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -92,6 +152,17 @@
         <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main8.java" />
         <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java" />
         <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Queue.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Tables.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Main99.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/Tablica2.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/workshop/ArticleDAO.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/exception/articleNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/main/MainException.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/exception/ArticleNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/dto/Article.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/dao/ArticleDAO.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/agora/main/Main.java" />
       </list>
     </option>
   </component>
@@ -115,7 +186,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="width" value="1922" />
-    <option name="height" value="1040" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -134,18 +205,41 @@
             <path>
               <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="warsztaty_java" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warsztaty_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="warsztaty_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="workshop" type="462c0819:PsiDirectoryNode" />
+              <item name="agora" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="warsztaty_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="agora" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="warsztaty_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="agora" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="warsztaty_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="agora" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="warsztaty_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="agora" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="warsztaty_java" type="b2602c69:ProjectViewProjectNode" />
@@ -159,11 +253,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/critical-path-core" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../szkoleniejava" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -182,13 +276,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetClass">
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main5" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.main.Main" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.agora.workshop.*" />
+          <option name="PATTERN" value="pl.com.agora.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main7" />
+    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main10" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.agora.workshop.*" />
+          <option name="PATTERN" value="pl.com.agora.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,25 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main8" />
+    <configuration name="Main99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main99" />
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.agora.workshop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Main9" />
-      <module name="warsztaty_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.com.agora.workshop.*" />
+          <option name="PATTERN" value="pl.com.agora.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,7 +321,20 @@
       <module name="warsztaty_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.com.agora.workshop.*" />
+          <option name="PATTERN" value="pl.com.agora.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tablica2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.com.agora.workshop.Tablica2" />
+      <module name="warsztaty_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.com.agora.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Tablica2" />
+        <item itemvalue="Application.Main99" />
+        <item itemvalue="Application.Main10" />
         <item itemvalue="Application.SetClass" />
-        <item itemvalue="Application.Main9" />
-        <item itemvalue="Application.Main8" />
-        <item itemvalue="Application.Main7" />
-        <item itemvalue="Application.Main5" />
       </list>
     </recent_temporary>
   </component>
@@ -269,26 +363,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1040" extended-state="6" />
+    <frame x="-1" y="0" width="1922" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30469584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18089648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="DB Browser" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32824427" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20174482" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3565976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="7" weight="0.3291536" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27948004" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2791712" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32715377" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -490,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -528,17 +617,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Tablica2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="89" selection-start-line="32" selection-start-column="89" selection-end-line="32" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main99.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Tables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/SetClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/workshop/Main9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/dto/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/exception/ArticleNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/main/MainException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/dao/ArticleDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="100" column="33" selection-start-line="100" selection-start-column="33" selection-end-line="100" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/agora/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -598,6 +779,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>mysql-connector-java-8.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

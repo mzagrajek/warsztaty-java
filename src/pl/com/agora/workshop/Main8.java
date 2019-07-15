@@ -2,8 +2,6 @@ package pl.com.agora.workshop;
 
 import java.util.StringJoiner;
 
-import static java.lang.Integer.valueOf;
-
 public class Main8 {
 
     public static void main(String[] args) {

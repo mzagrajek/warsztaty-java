@@ -1,7 +1,5 @@
 package pl.com.agora.workshop;
 
-import java.beans.JavaBean;
-
 public class HelloWorld {
 
     static final int FACTOR = 12; // (pole statyczne klasy HelloWorld, mozna je wykorzystywac w innej klasie)

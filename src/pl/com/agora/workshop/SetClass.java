@@ -12,7 +12,7 @@ public class SetClass {
         integers.add(234);
         integers.add(423);
         integers.add(423);
-        integers.add(423); //nie zwraca dubli
+        integers.add(423); //nie zwraca dubli w przypadku obiektow wazne jest dodawnie equals i hashCode bo inaczej on nie wie co ma porownac; Integer i String maja zaimplementowa dobra metode equals
 
 
         Iterator<Integer> iterator = integers.iterator();
@@ -21,5 +21,7 @@ public class SetClass {
             Integer number =iterator.next();
             System.out.println(number);
         }
+
+
     }
 }

@@ -2,8 +2,6 @@ package pl.com.agora.workshop;
 
 import java.util.Arrays;
 
-import static sun.swing.MenuItemLayoutHelper.max;
-
 public class Tablice {
 
     public static void main(String[] args) {
